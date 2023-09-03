@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Мій перший HTML-документ</title>
+</head>
+<body>
+    <h1>Вітаємо на моєму веб-сайті!</h1>
+    <p>Це простий HTML-документ.</p>
+</body>
+</html>
